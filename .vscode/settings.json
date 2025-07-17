@@ -16,7 +16,8 @@
     "format": "cpp",
     "initializer_list": "cpp",
     "span": "cpp",
-    "regex": "cpp"
+    "regex": "cpp",
+    "task.h": "c"
   },
   "idf.openOcdConfigs": [
     "board/esp32-wrover-kit-3.3v.cfg"

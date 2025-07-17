@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "TimeNode",
-    "project_version":    "edbfd37-dirty",
+    "project_version":    "5277d09-dirty",
     "project_path":       "C:/ESP32/TimeNode/TimeNode",
     "idf_path":           "C:/Users/ticoz/esp/v5.3.2/esp-idf",
     "build_dir":          "C:/ESP32/TimeNode/TimeNode/build",
@@ -1180,7 +1180,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/ESP32/TimeNode/TimeNode/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/ESP32/TimeNode/TimeNode/main/TimeNode.c" ],
+            "sources": [ "C:/ESP32/TimeNode/TimeNode/main/main.c" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {
